@@ -9,7 +9,7 @@
 
 # MAGIC %md <i18n value="bfb2d018-5d5a-4475-bf1e-293e2a5b0100"/>
 # MAGIC 
-# MAGIC # Data Engineering with Databricks
+# MAGIC # Data Engineering with Databricks test
 # MAGIC 
 # MAGIC This course prepares you for topics in the Databricks Certified Associate Data Engineer certification exam.
 # MAGIC 
